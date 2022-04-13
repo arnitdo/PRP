@@ -1,0 +1,1 @@
+print({i : input(f"Enter name {i} : ") for i in range(1, 2)})

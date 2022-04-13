@@ -1,0 +1,1 @@
+print(__import__("json").dumps({i : i ** 3 for i in range(5, 16)}, indent = 4))
